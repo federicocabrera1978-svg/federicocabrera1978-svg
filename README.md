@@ -4,7 +4,7 @@ Web development, automation and artificial intelligence · Mendoza, Argentina
 
 ## About me
 
-Full Stack Developer with a strong focus on backend development.
+I'm currently studying as a technician in data science and artificial intelligence at Instituto Belgrano. Check out my portfolio, how to reach me, and my languages.
 
 ## Education
 
