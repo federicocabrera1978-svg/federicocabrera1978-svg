@@ -1,6 +1,6 @@
 # Federico Cabrera
 
-Desarrollador web, automatización e inteligencia artificial · Mendoza, Argentina
+Web development, automation and artificial intelligence · Mendoza, Argentina
 
 ## About me
 
