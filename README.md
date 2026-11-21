@@ -4,7 +4,7 @@ Web development, automation and artificial intelligence · Mendoza, Argentina
 
 ## About me
 
-I'm currently studying as a technician in data science and artificial intelligence at Instituto Belgrano. Check out my portfolio, how to reach me, and my languages.
+I'm currently studying as a technician in data science and artificial intelligence at Instituto Belgrano. Check out my portfolio, how to reach me, and my languages. Spanish native. English B2.
 
 ## Education
 
