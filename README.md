@@ -6,6 +6,11 @@ Web development, automation and artificial intelligence · Mendoza, Argentina
 
 Full Stack Developer with a strong focus on backend development.
 
+## Education
+
+- **Senior Technician in Data Science and Artificial Intelligence** — IPAP (Instituto Provincial de la Administración Pública), Mendoza, Argentina.
+- **Higher Technical Degree in Software Development** (student) — IES 9-008 Manuel Belgrano, Mendoza, Argentina, with a focus on artificial intelligence.
+
 ## Technologies and tools
 
 **Lenguajes**
