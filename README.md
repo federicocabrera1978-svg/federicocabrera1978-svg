@@ -4,7 +4,7 @@ Desarrollador web, automatización e inteligencia artificial · Mendoza, Argenti
 
 ## About me
 
-Full Stack Developer with a strong focus on backend development.
+Soy Federico Cabrera, de Mendoza, Argentina. Me dedico al desarrollo web, a la automatización y a aplicar inteligencia artificial en problemas concretos del trabajo cotidiano.
 
 Trabajo en el Poder Judicial de Mendoza como Escribano Actuario en la Oficina de Secuestros. Ahí armé scripts en Python y automatizaciones que dejaron en cero un atraso de un año en la carga de notas de secuestros.
 
