@@ -4,19 +4,7 @@ Desarrollador web, automatización e inteligencia artificial · Mendoza, Argenti
 
 ## About me
 
-Soy Federico Cabrera, de Mendoza, Argentina. Me dedico al desarrollo web, a la automatización y a aplicar inteligencia artificial en problemas concretos del trabajo cotidiano.
-
-Trabajo en el Poder Judicial de Mendoza como Escribano Actuario en la Oficina de Secuestros. Ahí armé scripts en Python y automatizaciones que dejaron en cero un atraso de un año en la carga de notas de secuestros.
-
-Estudio inteligencia artificial y desarrollo de software en el IES 9-008 Manuel Belgrano —donde curso la Tecnicatura Superior en Desarrollo de Software— y en el IPAP. También inicié estudios de Ingeniería en Computación en la UTN y de Traductorado de Inglés en la Universidad del Aconcagua.
-
-Algunos proyectos en los que vengo trabajando:
-
-- **[Letras Académicas](https://github.com/federicocabrera1978-svg/letras-academicas)** — plataforma académica en JavaScript, con Supabase y PostgreSQL. [Demo](https://letras-academicas.vercel.app)
-- **[Cabrechess](https://github.com/federicocabrera1978-svg/cabrechess)** — ajedrez de escritorio en Python y pygame, con IA, análisis, reloj y PGN
-- **[ECHO WELL](https://github.com/federicocabrera1978-svg/echo-well-engine)** — motor 2D propio en C++20 y GLSL, con render deferred y física Verlet
-
-También llevo **[Zonda Bytes](https://zondabytes.com.ar)**, un estudio de diseño web en Mendoza. Entre los sitios de clientes están [Mary Kay Nélida](https://github.com/federicocabrera1978-svg/marykay-nelida), [Pádel Horizonte](https://github.com/federicocabrera1978-svg/padelhorizonte) y [Frutos Segovia](https://github.com/federicocabrera1978-svg/frutos-segovia). Con un equipo de la tecnicatura armamos [CanchaYa](https://github.com/federicocabrera1978-svg/canchaya), una plataforma de reservas hecha con Flask.
+Full Stack Developer with a strong focus on backend development.
 
 ## Technologies and tools
 
