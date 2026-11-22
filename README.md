@@ -9,7 +9,7 @@ I'm currently studying as a technician in data science and artificial intelligen
 ## Education
 
 - **Senior Technician in Data Science and Artificial Intelligence** — IPAP (Instituto Provincial de la Administración Pública), Mendoza, Argentina.
-- **Higher Technical Degree in Software Development** (student) — IES 9-008 Manuel Belgrano, Mendoza, Argentina, with a focus on artificial intelligence.
+- **Higher Technical Degree in Data Science and Artificial Intelligence** (student) — IES 9-008 Manuel Belgrano, Mendoza, Argentina. The first year is shared across the institute's programs; I specialize in data science and AI from the second year.
 
 ## Technologies and tools
 
